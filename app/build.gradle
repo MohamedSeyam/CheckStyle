@@ -21,9 +21,6 @@ android {
         }
     }
 
-    lintOptions {
-        baseline file("lint-baseline.xml")
-    }
 }
 
 dependencies {
